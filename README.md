@@ -46,6 +46,8 @@ Documentation: Confluence, Microsoft Office Suite
 
 Methodology: Agile (Scrum framework)
 
+Frameworks: Javascript
+
 ### 📅 Timeline
 March 2022 – October 2023
 
